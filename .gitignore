@@ -69,3 +69,4 @@ rel_ext_data*
 .DS_Store
 data.tgz*
 data_old/
+models_backup/
